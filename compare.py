@@ -28,7 +28,7 @@ def main():
         "-t",
         "--timeout",
         type=int,
-        help="Maximum execuation time in seconds per search"
+        help="Maximum execution time in seconds per search"
     )
     parser.add_argument(
         "--ignore-bfs",

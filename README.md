@@ -17,7 +17,7 @@ options:
   -i ITERATIONS, --iterations ITERATIONS
                         Number of times both of the algorithms are compared
   -t TIMEOUT, --timeout TIMEOUT
-                        Maximum execuation time in seconds per search
+                        Maximum execution time in seconds per search
   --ignore-bfs          Whether to omit BFS
   --ignore-dijkstra     Whether to omit Dijkstra's
 ```
